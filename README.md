@@ -11,7 +11,7 @@ After performing the analysis from the data provided, following results were obs
 * Project Story can be found here [Business Proposal](https://public.tableau.com/views/Rideshare_BusinessCase/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 * Dashboard from project Summary can be found below:
 ![Dashboard](Dashboard 1.png) 
-![Story]()
+[Story]()
 
 The Story provides the detailed analysis of the program by various parameters. 
 
