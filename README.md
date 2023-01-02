@@ -8,9 +8,17 @@ The intent of the project to propose the necessasity of a Bike-Sharing program i
 After performing the analysis from the data provided, following results were observed. 
 * Data source: [Citi NYC Data](https://ride.citibikenyc.com/system-data) 
 * Software: Jupyter Notebook and Tableau 
-* Project Store can be found here [Business Proposal](https://public.tableau.com/views/Bikesharing_BusinessCase/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* Project Story can be found here [Business Proposal](https://public.tableau.com/views/Rideshare_BusinessCase/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 * Dashboard from project Summary can be found below:
+![Dashboard](Dashboard 1.png) 
+![Story]()
 
-![chart](Dashboard 1.png) 
+The Story provides the detailed analysis of the program by various parameters. 
 
+## ***Summary:***
+The following conclusions are made from the analysis, 
+* From the data, an increased male riders were Male compared to the females. 
+* The number of bikers were significantly higher during the peak hours (7.00-9.00 AM and 5.00-7.00 PM).
+* The demand were see also during the weekends and this could possibly be due to the increased tourist destinations around the area. 
+* The next steps are to analyse the cost per trip spend, total investments made to provide a complete justification for the program. 
 
