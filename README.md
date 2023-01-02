@@ -11,4 +11,6 @@ After performing the analysis from the data provided, following results were obs
 * Project Store can be found here [Business Proposal](https://public.tableau.com/views/Bikesharing_BusinessCase/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 * Dashboard from project Summary can be found below:
 
-![chart](
+![chart](Dashboard 1.png) 
+
+
